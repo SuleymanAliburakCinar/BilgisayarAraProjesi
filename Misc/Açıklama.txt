@@ -1,0 +1,4 @@
+Anaconda Navigator
+Jupyter Notebook
+Android Studio
+PyCharm
